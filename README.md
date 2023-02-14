@@ -1,5 +1,6 @@
 # Podcasts
 
+> **For non-Russian speakers:**
 > This space is a unified project for podcasts hosted by Fedor Usakov. All podcasts are in Russian, so this space is also in Russian.
 > Licensing information is listed at the bottom of the page.
 > If you have any questions, feel free to [write to me](mailto:podcast@usakov.dev).
