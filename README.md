@@ -8,7 +8,11 @@
 
 ## Душный Frontend
 
+<div align="center">
+
 <img src="./assets/Душный_Frontend.png" style="height: 248px; width:248px;"/>
+
+</div>
 
 Это подкаст, где фронтендеры рассуждают о том, что совсем не обязательно попадает в их стек. Мы поговорим о фреймворках и инструментах, обсудим подходы и практики, пригласим интересных гостей.
 
@@ -21,10 +25,16 @@
 
 ### Слушать на популярных платформах
 
-Spotify ▪ Apple Podcasts ▪ Google Podcasts \
-Overcast ▪ Amazon Music ▪ iHeartRadio \
-Castbox ▪ Pocket Casts ▪ Radio Public \
-Stitcher ▪ [Anchor.fm](https://anchor.fm/frontend) ▪ Yandex Music
+<div align="center">
+
+|          |                                         |                 |
+| -------: | :-------------------------------------: | :-------------- |
+|  Spotify |             Apple Podcasts              | Google Podcasts |
+| Overcast |              Amazon Music               | iHeartRadio     |
+|  Castbox |              Pocket Casts               | Radio Public    |
+| Stitcher | [Anchor.fm](https://anchor.fm/frontend) | Yandex Music    |
+
+</div>
 
 ---
 
