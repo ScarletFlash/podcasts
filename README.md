@@ -21,7 +21,7 @@
 
 #### Сезон первый, технический
 
-- 1.1.0 – Про фреймворки и не только
+- 1.1.0 – Про фреймворки и не только ([@progikusok](https://github.com/progikusok), [@webgangster0](https://github.com/webgangster0))
 - 1.1.1 – _TBA_
 
 ### Слушать на популярных платформах
