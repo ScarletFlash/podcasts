@@ -21,19 +21,19 @@
 
 #### Сезон первый, технический
 
-- 1.1.0 – Про фреймворки и не только ([@progikusok](https://github.com/progikusok), [@webgangster0](https://github.com/webgangster0))
+- 1.1.0 – Про фреймворки и их будущее ([@progikusok](https://github.com/progikusok), [@webgangster0](https://github.com/webgangster0))
 - 1.1.1 – _TBA_
 
 ### Слушать на популярных платформах
 
 <div align="center">
 
-|          |                                         |                 |
-| -------: | :-------------------------------------: | :-------------- |
-|  Spotify |             Apple Podcasts              | Google Podcasts |
-| Overcast |              Amazon Music               | iHeartRadio     |
-|  Castbox |              Pocket Casts               | Radio Public    |
-| Stitcher | [Anchor.fm](https://anchor.fm/frontend) | Yandex Music    |
+|                                                                 |                                         |                 |
+| --------------------------------------------------------------: | :-------------------------------------: | :-------------- |
+| [Spotify](https://open.spotify.com/show/3nrhcBHhX1QGcjFFdxkyHs) |             Apple Podcasts              | Google Podcasts |
+|                                                        Overcast |              Amazon Music               | iHeartRadio     |
+|                                                         Castbox |              Pocket Casts               | Radio Public    |
+|                                                        Stitcher | [Anchor.fm](https://anchor.fm/frontend) | Yandex Music    |
 
 </div>
 
