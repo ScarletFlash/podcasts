@@ -22,7 +22,7 @@
 #### Сезон первый, технический
 
 - 1.1.0 – Про фреймворки и их будущее ([@progikusok](https://github.com/progikusok), [@webgangster0](https://github.com/webgangster0))
-- 1.1.1 – _TBA_
+- 1.2.0 – Про многообразие инструментов ([@progikusok](https://github.com/progikusok), [@webgangster0](https://github.com/webgangster0))
 
 ### Слушать на популярных платформах
 
