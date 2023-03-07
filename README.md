@@ -28,10 +28,10 @@
 
 <div align="center">
 
-|                                                                 |                                                                                   |                                      |
-| --------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------- |
-| [Spotify](https://open.spotify.com/show/3nrhcBHhX1QGcjFFdxkyHs) | [Apple Podcasts](https://podcasts.apple.com/podcast/душный-frontend/id1672181806) | Google Podcasts                      |
-|                       [Deezer](https://deezer.com/show/5743467) |                                   Yandex Music                                    | [Anchor](https://anchor.fm/frontend) |
+|                                                                 |                                                                                   |                                                                                                            |
+| --------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------- |
+| [Spotify](https://open.spotify.com/show/3nrhcBHhX1QGcjFFdxkyHs) | [Apple Podcasts](https://podcasts.apple.com/podcast/душный-frontend/id1672181806) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kOTU4ZGRiOC9wb2RjYXN0L3Jzcw) |
+|                       [Deezer](https://deezer.com/show/5743467) |                                   Yandex Music                                    | [Anchor](https://anchor.fm/frontend)                                                                       |
 
 </div>
 
